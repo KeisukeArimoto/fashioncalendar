@@ -77,3 +77,25 @@ h1, h2 {
   width: 100%;
   z-index: 10000;
 }
+
+.navbar-transparent {
+  margin-bottom: 0px;
+  background-color:	#FFCC99;
+  a {
+    color: #fff !important;
+  }
+}
+  
+.navbar-brand {
+  padding: 0px;
+  margin-top: 15px;
+}
+
+img {
+  height: 40px;
+}
+
+.btn-block {
+  margin-top: 20px;
+}
+
